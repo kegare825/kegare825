@@ -1,62 +1,49 @@
-# Perfil Profesional en Datos - Portfolio Personal
+🚀 Aaron's GitHub
 
-Este repositorio contiene mi página web personal como profesional en el campo de datos, destacando mi experiencia como Data Scientist, Data Engineer y analista de Business Intelligence.
+👋 Sobre mí
 
-## 🔍 Contenido
+Soy un ingeniero de datos y científico de datos con experiencia en análisis, machine learning y optimización. Actualmente trabajo como data analyst en una empresa de animación 3D y estoy orientando mi carrera hacia la ingeniería del dato.
 
-Este sitio web incluye:
-- Información profesional y personal
-- Habilidades técnicas y competencias
-- Proyectos destacados
-- Certificaciones relevantes
-- Mi trayectoria en el mundo de los datos
-- Información de contacto
+🔥 Proyectos Destacados
 
-## 🛠️ Tecnologías Utilizadas
+📊 Optimización y Ciencia de Datos
 
-Esta página está construida con:
-- HTML5
-- CSS3 (con variables personalizadas y diseño responsive)
-- Alojada en GitHub Pages
+📖 Doctorando en Ciencia de Datos: Apuntes sobre estadística, optimización y minería de datos.
 
-## 📋 Cómo Usar
+📚 NLP para Libros en Español, Inglés y Japonés: Proyecto de machine learning para procesar grandes volúmenes de libros digitales.
 
-Este repositorio está configurado como un sitio de GitHub Pages. Puedes ver la versión publicada en [https://tuusuario.github.io](https://tuusuario.github.io)
+🍽 App de Gestión Alimentaria (MVP en desarrollo)
 
-### Para Desarrollo Local
+🛒 Funcionalidad: Manejo de despensa, planificación de menús, recetas y conexión con supermercados.
 
-1. Clona este repositorio:
-   ```
-   git clone https://github.com/tuusuario/tuusuario.github.io.git
-   ```
+🔧 Tech Stack: Flutter (frontend), FastAPI (backend) y SQLite (base de datos).
 
-2. Abre el archivo `index.html` en tu navegador para ver los cambios.
+🤖 Optimización: Ajuste de menús basado en calorías y precio.
 
-3. Realiza las modificaciones necesarias en el código HTML y CSS.
+🔨 Tech Stack
 
-4. Sube tus cambios:
-   ```
-   git add .
-   git commit -m "Descripción de tus cambios"
-   git push origin main
-   ```
+Lenguajes: Python, SQL, Flutter (Dart), Bash
 
-## 🔄 Actualizaciones
+Frameworks: FastAPI, PyTorch, Pandas, Scikit-learn
 
-Este portfolio se actualiza periódicamente con:
-- Nuevos proyectos completados
-- Certificaciones obtenidas
-- Tecnologías aprendidas
-- Experiencia profesional relevante
+Bases de Datos: SQLite, PostgreSQL, BigQuery
 
-## 📞 Contacto
+Infraestructura: Docker, Kubernetes, CI/CD
 
-Si estás interesado en colaboraciones o tienes alguna pregunta, no dudes en contactarme:
+🎯 Objetivos
 
-- 📧 Email: tuemail@ejemplo.com
-- 🔗 LinkedIn: [tu perfil de LinkedIn](https://linkedin.com/in/tu-perfil)
-- 🐦 Twitter: [@tuusuario](https://twitter.com/tuusuario)
+Desarrollar y lanzar mi negocio SaaS B2B en las Islas Canarias.
 
-## 📄 Licencia
+Profundizar en ingeniería de datos y arquitecturas escalables.
 
-Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
+Mejorar mi flujo de trabajo en modelos de IA y optimización.
+
+📬 Contacto
+
+🌍 aaron.dev (Próximamente)
+
+🐦 Twitter
+
+📧 aaron@email.com
+
+
