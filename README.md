@@ -1,4 +1,4 @@
-🚀 Aaron's GitHub
+🚀 Aaron de la Cruz GitHub
 
 👋 Sobre mí
 
@@ -8,17 +8,13 @@ Soy un ingeniero de datos y científico de datos con experiencia en análisis, m
 
 📊 Optimización y Ciencia de Datos
 
-📖 Doctorando en Ciencia de Datos: Apuntes sobre estadística, optimización y minería de datos.
+📖 Analisis de datos geograficos.
 
-📚 NLP para Libros en Español, Inglés y Japonés: Proyecto de machine learning para procesar grandes volúmenes de libros digitales.
+📚 Reporting y dashboarding.
 
-🍽 App de Gestión Alimentaria (MVP en desarrollo)
+🍽 App de Gestión Alimentaria  en desarrollo
 
-🛒 Funcionalidad: Manejo de despensa, planificación de menús, recetas y conexión con supermercados.
 
-🔧 Tech Stack: Flutter (frontend), FastAPI (backend) y SQLite (base de datos).
-
-🤖 Optimización: Ajuste de menús basado en calorías y precio.
 
 🔨 Tech Stack
 
