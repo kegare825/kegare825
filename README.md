@@ -1,45 +1,105 @@
-🚀 Aaron de la Cruz GitHub
+# 👋 Hi, I'm Aaron González
 
-👋 Sobre mí
+**Data Engineer | Analytics Engineer | Former Data Scientist**
 
-Soy un ingeniero de datos y científico de datos con experiencia en análisis, machine learning y optimización. Actualmente trabajo como data analyst en una empresa de animación 3D y estoy orientando mi carrera hacia la ingeniería del dato.
+I'm a data professional with 6+ years of experience building data products, analytical platforms, and automation solutions across multiple industries including food delivery, energy markets, hospitality, and media production.
 
-🔥 Proyectos Destacados
+My background combines Data Engineering, Analytics Engineering, Business Intelligence, and Data Science. Throughout my career I've designed ETL/ELT pipelines, automated business-critical processes, built reporting platforms, developed machine learning solutions, and helped organizations turn raw data into actionable insights.
 
-📊 Optimización y Ciencia de Datos
+Currently, I'm focused on modern Data Engineering practices, working with streaming architectures, orchestration, data quality, observability, and cloud-native data platforms.
 
-📖 Analisis de datos geograficos.
+---
 
-📚 Reporting y dashboarding.
+## 🚀 What I Do
 
-🍽 App de Gestión Alimentaria  en desarrollo
+* Build scalable ETL/ELT pipelines
+* Design modern data platforms and lakehouse architectures
+* Develop analytics and BI solutions
+* Implement data quality and observability frameworks
+* Work with both batch and streaming data systems
+* Automate business processes through data products
+* Bridge the gap between business needs and technical implementation
 
+---
 
+## 🛠 Tech Stack
 
-🔨 Tech Stack
+### Data Engineering
 
-Lenguajes: Python, SQL, Flutter (Dart), Bash
+Python • SQL • Apache Airflow • Dagster • dbt • ETL/ELT • Data Contracts • Data Quality
 
-Frameworks: FastAPI, PyTorch, Pandas, Scikit-learn
+### Streaming & Big Data
 
-Bases de Datos: SQLite, PostgreSQL, BigQuery
+Apache Kafka • Apache Flink • Apache Spark • SparkML
 
-Infraestructura: Docker, Kubernetes, CI/CD
+### Databases & Storage
 
-🎯 Objetivos
+PostgreSQL • BigQuery • MinIO • Parquet • Data Lakes
 
-Desarrollar y lanzar mi negocio SaaS B2B en las Islas Canarias.
+### Cloud & DevOps
 
-Profundizar en ingeniería de datos y arquitecturas escalables.
+Docker • Docker Compose • GitHub Actions • Jenkins • Terraform • AWS • Google Cloud Platform
 
-Mejorar mi flujo de trabajo en modelos de IA y optimización.
+### Data Science & Analytics
 
-📬 Contacto
+pandas • Polars • scikit-learn • PySpark • Statistical Analysis • Causal Inference
 
-🌍 aaron.dev (Próximamente)
+### BI & Visualization
 
-🐦 Twitter
+Tableau • Metabase • Streamlit • Looker Studio • Plotly • Grafana
 
-📧 aaron@email.com
+---
 
+## 🔥 Featured Projects
 
+### Crypto Pulse — Real-Time Data Platform
+
+A production-style streaming data platform for cryptocurrency market data.
+
+**Architecture**
+
+CoinGecko + Binance → Kafka → Flink → MinIO + PostgreSQL → dbt → Metabase
+
+Features:
+
+* Real-time ingestion and processing
+* Medallion Architecture (raw → silver → gold)
+* Data Contracts
+* Great Expectations validation
+* Dagster orchestration
+* Prometheus & Grafana monitoring
+* CI/CD with GitHub Actions
+* Lakehouse-inspired architecture
+
+### NYC Taxi Analytics (In Progress)
+
+Large-scale analytics and machine learning project built with Apache Spark and SparkML, focused on predictive modeling and scalable data processing.
+
+---
+
+## 💼 Professional Highlights
+
+* Built a geographic delivery-zone platform at Just Eat that eliminated a dependency costing over €8,000/month.
+* Designed and maintained ETL/ELT pipelines and analytical applications used across multiple business teams.
+* Automated reporting and operational workflows that significantly reduced manual effort.
+* Trained more than 50 employees in Tableau and data analytics practices.
+* Developed solutions spanning analytics, machine learning, business intelligence, and data engineering.
+
+---
+
+## 🎯 Current Focus
+
+* Data Engineering
+* Streaming Architectures
+* Spark Ecosystem
+* Cloud Data Platforms
+* Infrastructure as Code
+* Data Quality & Observability
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/aarondlc
+* GitHub: github.com/kegare825
+* Email: [aarongonp@gmail.com](mailto:aarongonp@gmail.com)
